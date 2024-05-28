@@ -1,1 +1,2 @@
-# Link-State-Routing
+# Link State Routing Protocol
+This repository contains an implementation of a Link State Routing Protocol in Python. The Link State Routing Protocol is a type of dynamic routing protocol used in computer networks to determine the best path for data packets based on the current state of the network links. It operates by having each router in the network maintain a database of all the network links and their states. Routers then exchange link state information with each other to build a complete picture of the network topology. Using this information, routers can calculate the shortest path to reach a destination.
